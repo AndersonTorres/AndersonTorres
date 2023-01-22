@@ -1,0 +1,29 @@
+# -*- mode: org; coding: utf-8-unix; fill-column: 80 -*-
+
+#+title: Anderson Torres
+
+* Intro
+
+Olá!
+
+Eu sou Anderson Torres, um programador amador um tanto enferrujado.
+
+* Projetos
+
+** Pessoais
+
+- [[https://github.com/AndersonTorres/etc][etc]]
+
+  Este é meu repositório de configurações, gerenciadas via Nix.
+
+** Contribuições
+
+Aqui estão os repositórios que uso como fork para contribuições.
+
+- [[https://github.com/atorres1985-contrib/nixpkgs][Nixpkgs]]
+
+  Uma coleção imensa de pacotes de software que pode ser instalada via Nix.
+
+* Contato
+
+- Website: https://andersontorres.hashnode.dev/
