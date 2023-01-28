@@ -12,17 +12,25 @@ Eu sou Anderson Torres, um programador amador um tanto enferrujado.
 
 ** Pessoais
 
-- [[https://github.com/AndersonTorres/etc][etc]]
+- [[https://github.com/orgs/atorres1985-junkyard/repositories][Junkyard]]
 
-  Este é meu repositório de configurações, gerenciadas via Nix.
+  Ferro-Velho de projetos pessoais.
+
+  - [[https://github.com/orgs/atorres1985-junkyard/etc][etc]]
+
+    Este é meu repositório de configurações, gerenciadas via Nix.
 
 ** Contribuições
 
 Aqui estão os repositórios que uso como fork para contribuições.
 
-- [[https://github.com/atorres1985-contrib/nixpkgs][Nixpkgs]]
+- [[https://github.com/atorres1985-contrib/repositories][Contrib]]
 
-  Uma coleção imensa de pacotes de software que pode ser instalada via Nix.
+  Repositórios de contribuições - coisas que em geral eu mesmo não criei.
+
+  - [[https://github.com/atorres1985-contrib/nixpkgs][Nixpkgs]]
+
+    Uma coleção imensa de pacotes de software que pode ser instalada via Nix.
 
 * Contato
 
