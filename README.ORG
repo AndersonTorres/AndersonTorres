@@ -12,11 +12,11 @@ Eu sou Anderson Torres, um programador amador um tanto enferrujado.
 
 ** Pessoais
 
-- [[https://github.com/orgs/atorres1985-junkyard/repositories][Junkyard]]
+- [[https://github.com/atorres1985-junkyard/repositories][Junkyard]]
 
   Ferro-Velho de projetos pessoais.
 
-  - [[https://github.com/orgs/atorres1985-junkyard/etc][etc]]
+  - [[https://github.com/atorres1985-junkyard/etc][etc]]
 
     Este é meu repositório de configurações, gerenciadas via Nix.
 
