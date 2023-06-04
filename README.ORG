@@ -48,6 +48,10 @@ Aqui estão os repositórios que uso como fork para contribuições.
     Emacs mode para a linguagem de programação
     [[https://github.com/mlochbaum/BQN][BQN]].
 
+* Diário
+
+Eis: [[./DIARIO.ORG][DIARIO.ORG]]
+
 * Contato
 
 - Website: https://andersontorres.hashnode.dev/

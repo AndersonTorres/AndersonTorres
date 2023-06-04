@@ -1,0 +1,55 @@
+# -*- mode: org; coding: utf-8-unix; fill-column: 80 -*-
+
+#+title: Diários de Bordo
+
+Este arquivo servirá como um log infinito dos meus projetos e ideias
+
+* NixOS
+
+NixOS é uma distribuição Linux um tanto heterodoxa, montada em cima do
+gerenciador de pacotes Nix.
+
+Para mais informações, visite o [[https://nixos.org/][site oficial]].
+
+** TDE - Trinity Desktop Environment
+
+Como viúvo do antigo KDE 3, eu muito me interesso pelo
+[[https://www.trinitydesktop.org/][Trinity Desktop]].
+
+Já deve ter uns três anos que não mexo nos códigos que aprontei. Por isso mesmo,
+dessa vez pretendo manter um registro do meu progresso, a passos de formiga e
+sem vontade.
+
+*** Log
+
+** Empacotamentos
+
+Nixpkgs é o maior repositório de pacotes nas estatísticas do Repology. Porém, há
+uma quantidade imensa de pacotes que ainda não fazem parte dele. Em razão disso,
+pretendo zerar a diferença entre o Nixpkgs e outros repositórios notáveis.
+
+Eis os repositórios que tenho em vista:
+
+- [[https://repology.org/projects/?search=&inrepo=aur&notinrepo=nix_unstable][aur]]
+- [[https://repology.org/projects/?search=&inrepo=crux_37&notinrepo=nix_unstable][crux_37]]
+- [[https://repology.org/projects/?search=&inrepo=freebsd&notinrepo=nix_unstable][freebsd]]
+- [[https://repology.org/projects/?search=&inrepo=kiss_games&notinrepo=nix_unstable][kiss_games]]
+- [[https://repology.org/projects/?search=&inrepo=pkgsrc_current&notinrepo=nix_unstable][pkgsrc]]
+- [[https://repology.org/projects/?search=&inrepo=slackbuilds&notinrepo=nix_unstable][slackbuilds]]
+- [[https://repology.org/projects/?search=&inrepo=slitaz_cooking&notinrepo=nix_unstable][slitaz_cooking]]  
+
+** Nix on Haiku
+
+Objetivo: portar o Nix para o [[https://www.haiku-os.org/][Haiku]], um remake
+open-source do BeOS.
+
+* Misc
+
+** Meson Builds Palemoon
+
+Recentemente o Palemoon foi removido do Nixpkgs porque eles não podem atualizar
+os scripts para Python 3. Minha ideia seria portar estes scripts para Meson.
+
+** Meson Builds Bochs
+
+Bochs também é outro software no qual eu pretendo testar o Meson.
