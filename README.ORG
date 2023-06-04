@@ -1,0 +1,53 @@
+# -*- mode: org; coding: utf-8-unix; fill-column: 80 -*-
+
+#+title: Anderson Torres
+
+* Intro
+
+Olá!
+
+Eu sou Anderson Torres, um programador amador um tanto enferrujado.
+
+No presente momento, meu maior trabalho é voluntariando-me a manter um punhado
+de pacotes do Nixpkgs e reclamar picuinhas em código mal escrito.
+
+* Projetos
+
+** Pessoais
+
+- [[https://github.com/orgs/atorres1985-junkyard/repositories][Junkyard]]
+
+  Ferro-Velho de projetos pessoais.
+
+  - [[https://github.com/atorres1985-junkyard/etc][etc]]
+
+    Este é meu repositório de configurações, gerenciadas via Nix.
+
+** Contribuições
+
+Aqui estão os repositórios que uso como fork para contribuições.
+
+- [[https://github.com/orgs/atorres1985-contrib/repositories][Contrib]]
+
+  Repositórios de contribuições - coisas que em geral eu mesmo não criei, mas
+  ajudo um bocadinho.
+
+  - [[https://github.com/atorres1985-contrib/nixpkgs][Nixpkgs]]
+
+    Uma coleção imensa de pacotes de software que pode ser instalada via Nix.
+
+** Manutenção
+
+- [[https://github.com/orgs/museoa/repositories][Museoa]]
+
+  Um conjunto de softwares que foram abandonados e/ou descontinuados e que eu
+  recupero a partir de algumas escavações.
+
+  - [[https://github.com/museoa/bqn-mode][bqn-mode]]
+
+    Emacs mode para a linguagem de programação
+    [[https://github.com/mlochbaum/BQN][BQN]].
+
+* Contato
+
+- Website: https://andersontorres.hashnode.dev/
