@@ -53,3 +53,8 @@ os scripts para Python 3. Minha ideia seria portar estes scripts para Meson.
 ** Meson Builds Bochs
 
 Bochs também é outro software no qual eu pretendo testar o Meson.
+
+* Rascunho
+
+Eis: [[./RASCUNHO.ORG][RASCUNHO.ORG]]
+
